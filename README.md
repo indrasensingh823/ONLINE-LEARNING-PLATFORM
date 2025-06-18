@@ -38,7 +38,7 @@ Users can browse courses, enroll, watch lessons, take quizzes, and track achieve
 
 ## 📸 Screenshot
 
-![Image](https://github.com/user-attachments/assets/73638f2e-22f7-4e21-addb-815efa704083)
+![Image](https://github.com/user-attachments/assets/147d3916-1676-4632-82bd-6c824444f42d)
 
 ---
 
